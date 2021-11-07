@@ -2,7 +2,6 @@
 利用四种模型对Mathworks Dataset和RadioML Dataset两个数据集分别进行了测试。
 - （1）参考了几篇文献，关于调制信号识别和如何利用matlab生成数据集；
 - （2）在（1）的基础上自己搭建了一个real真实数据集和一个Synthetic合成数据集。
-- （3）
 
 # Modulation-Classification
 Detecting the Modulation Scheme of Received Signal using AutoML Techniques.
