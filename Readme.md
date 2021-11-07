@@ -1,7 +1,7 @@
 # 对4种调制信号识别性能进行了比对，分别是CNN、RNN、ResNet、CLDNN
-
-参考了几篇调制信号识别的文献和如何利用matlab生成数据集。
 利用四种模型对Mathworks Dataset和RadioML Dataset两个数据集分别进行了测试。
+（1）参考了几篇文献，关于调制信号识别和如何利用matlab生成数据集；
+（2）在（1）的基础上
 
 # Modulation-Classification
 Detecting the Modulation Scheme of Received Signal using AutoML Techniques.
